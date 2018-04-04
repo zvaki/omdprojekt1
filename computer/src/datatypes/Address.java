@@ -25,3 +25,5 @@ public class Address implements Operand {
 		return w1.mul(b);
 	}
 }
+
+// Hej, nu testar jag!
